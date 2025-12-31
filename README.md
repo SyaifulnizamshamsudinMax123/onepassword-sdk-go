@@ -1,3 +1,7 @@
+Copyright © 2025 1Password Developers. All Right Reserved.
+By Developers_Syaifulnizamshamsudin
+
+
 <p align="center">
   <a href="https://1password.com">
       <h1 align="center">1Password Go SDK</h1>
